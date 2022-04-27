@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Ashish Kharat</h1>
+<h1 align="center"  >Hi 👋, I'm Ashish Kharat</h1>
 <p align="center">Full Stack Developer with a specialization in MERN
 Stack. Hands-on experience in application development. Skilled
 in building web applications using HTML, CSS, JavaScript, NodeJS, ExpressJS, ReactJS, MongoDB.
